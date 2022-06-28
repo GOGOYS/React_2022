@@ -16,3 +16,6 @@
 
 #### create-react-app: react 프토젝트 초기 작성 템플릿
 * npm install -g create-react-app
+
+## react 프로젝트 시작하기
+* /workspace/React-2022/create-react-app 프로젝트
